@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(rgb(212, 130, 130),grey,black);
+}
+.header{
+    text-align: center;
+    font-size: 3rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(red,blue);
+    height: 100px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+p{
+    border: 1px dashed red;
+    text-align: center;
+    color: honeydew;
+}
